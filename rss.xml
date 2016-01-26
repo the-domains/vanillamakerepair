@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VanillaMakeRepair]]></title>
+        <description><![CDATA[VanillaMakeRepair]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 17:24:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First testdrive !]]></title>
+            <description><![CDATA[<article><h1>First testdrive !</h1><p>So exited about this :-)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fb0c4c79e65de3aa22583363fcb42cf66ceb134.png"></article>]]></description>
+            <link>undefinedfirst-testdrive/index.html</link>
+            <guid isPermaLink="false">6635eea9-24bf-470a-bbb1-5bbb4fd4d7cc</guid>
+            <pubDate>Tue, 26 Jan 2016 17:24:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
