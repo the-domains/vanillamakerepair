@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Just playing around
-datePublished: '2016-01-26T17:51:50.288Z'
-dateModified: '2016-01-26T17:51:19.613Z'
+datePublished: '2016-01-26T17:58:01.591Z'
+dateModified: '2016-01-26T17:57:57.787Z'
 title: 'First testdrive !'
 author: []
 sourcePath: _posts/2016-01-26-first-testdrive.md
